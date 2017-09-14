@@ -17,3 +17,6 @@ To run the code within a Docker container, or:
     npm test 
 
 Both work on my MBP.
+
+# License
+Public domain.
